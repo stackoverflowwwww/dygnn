@@ -1,0 +1,10 @@
+epoch: 0
+head_rank mean: 787.5 ; head_rank var: 0.0
+tail_rank mean: 411.5 ; tail_rank var: 0.0
+head_rank HITS 100: 0
+tail_rank_HITS 100: 0
+head_rank HITS 50: 0
+tail_rank_HITS 50: 0
+head_rank HITS 20: 0
+tail_rank_HITS 20: 0
+============================================================================

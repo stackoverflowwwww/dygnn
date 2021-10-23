@@ -1,0 +1,70 @@
+epoch: 0
+head_rank mean: 56.5 ; head_rank var: 0.0
+tail_rank mean: 56.5 ; tail_rank var: 0.0
+head_rank HITS 100: 7
+tail_rank_HITS 100: 7
+head_rank HITS 50: 0
+tail_rank_HITS 50: 0
+head_rank HITS 20: 0
+tail_rank_HITS 20: 0
+============================================================================
+epoch: 1
+head_rank mean: 1.5 ; head_rank var: 0.0
+tail_rank mean: 1.5 ; tail_rank var: 0.0
+head_rank HITS 100: 7
+tail_rank_HITS 100: 7
+head_rank HITS 50: 7
+tail_rank_HITS 50: 7
+head_rank HITS 20: 7
+tail_rank_HITS 20: 7
+============================================================================
+epoch: 2
+head_rank mean: 6.5 ; head_rank var: 0.0
+tail_rank mean: 3.5 ; tail_rank var: 0.0
+head_rank HITS 100: 7
+tail_rank_HITS 100: 7
+head_rank HITS 50: 7
+tail_rank_HITS 50: 7
+head_rank HITS 20: 7
+tail_rank_HITS 20: 7
+============================================================================
+epoch: 0
+head_rank mean: 62.5 ; head_rank var: 0.0
+tail_rank mean: 27.5 ; tail_rank var: 0.0
+head_rank HITS 100: 7
+tail_rank_HITS 100: 7
+head_rank HITS 50: 0
+tail_rank_HITS 50: 7
+head_rank HITS 20: 0
+tail_rank_HITS 20: 0
+============================================================================
+epoch: 1
+head_rank mean: 1.5 ; head_rank var: 0.0
+tail_rank mean: 1.5 ; tail_rank var: 0.0
+head_rank HITS 100: 7
+tail_rank_HITS 100: 7
+head_rank HITS 50: 7
+tail_rank_HITS 50: 7
+head_rank HITS 20: 7
+tail_rank_HITS 20: 7
+============================================================================
+epoch: 2
+head_rank mean: 1.5 ; head_rank var: 0.0
+tail_rank mean: 2.5 ; tail_rank var: 0.0
+head_rank HITS 100: 7
+tail_rank_HITS 100: 7
+head_rank HITS 50: 7
+tail_rank_HITS 50: 7
+head_rank HITS 20: 7
+tail_rank_HITS 20: 7
+============================================================================
+epoch: 3
+head_rank mean: 1.5 ; head_rank var: 0.0
+tail_rank mean: 2.5 ; tail_rank var: 0.0
+head_rank HITS 100: 7
+tail_rank_HITS 100: 7
+head_rank HITS 50: 7
+tail_rank_HITS 50: 7
+head_rank HITS 20: 7
+tail_rank_HITS 20: 7
+============================================================================
